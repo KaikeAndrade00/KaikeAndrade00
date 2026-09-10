@@ -74,9 +74,14 @@ I’m passionate about bridging the gap between robust software engineering, sca
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaikeAndrade00&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeAndrade00&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=KaikeAndrade00&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaikeAndrade00&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---
