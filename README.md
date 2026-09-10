@@ -76,7 +76,7 @@ I build data-driven solutions that connect clean data modeling, actionable busin
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaikeAndrade00&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaikeAndrade00&layout=compact&theme=tokyonight&v=1%22%20alt=%22Top%20Languages" />
 </div>
 
 ---
